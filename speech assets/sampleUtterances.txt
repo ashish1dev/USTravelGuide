@@ -1,0 +1,14 @@
+USTravelGuideIntent {Location}
+USTravelGuideIntent tell me about {Location}
+USTravelGuideIntent talk about {Location}
+USTravelGuideIntent tell me some details about {Location}
+AMAZON.HelpIntent tell me about tourist locations in US
+AMAZON.HelpIntent tell me about tourist places in US
+AMAZON.HelpIntent tell me those tourist locations names again
+AMAZON.HelpIntent tell me those tourist locations in US
+AMAZON.HelpIntent tell me those tourist locations
+AMAZON.HelpIntent tell me the names of tourist places
+AMAZON.HelpIntent tell me the locations to visit in US
+AMAZON.HelpIntent what are the tourist places to see in US
+USTravelGuideBlankSlotIntent tell me about
+USTravelGuideBlankSlotIntent talk about
